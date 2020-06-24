@@ -1,8 +1,10 @@
-# JQueryCalc
+Welcome to our Calculator! 
 
-This Repo is a template!
+This program uses jQuery to create a functional calculator that can add, subtract, multiply, and devide numbers. 
 
-### Steps
-1. Make sure you make a copy of the template and then clone the copy
-2. Invite your team members to this repo
-3. Have everyone clone down the repo
+When you press a numbers button: 
+It should appear on the right. 
+When you press one of the function buttons:
+Pressing number buttons will apppear in a new row, indicating the number you want the original value to be affected by 
+When you press enter:
+The answer is displayed on a new line
